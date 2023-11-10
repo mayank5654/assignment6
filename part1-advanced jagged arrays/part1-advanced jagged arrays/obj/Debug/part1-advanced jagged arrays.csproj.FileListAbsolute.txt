@@ -1,0 +1,7 @@
+D:\practic exercise\assignment6\part1-advanced jagged arrays\part1-advanced jagged arrays\bin\Debug\part1-advanced jagged arrays.exe.config
+D:\practic exercise\assignment6\part1-advanced jagged arrays\part1-advanced jagged arrays\bin\Debug\part1-advanced jagged arrays.exe
+D:\practic exercise\assignment6\part1-advanced jagged arrays\part1-advanced jagged arrays\bin\Debug\part1-advanced jagged arrays.pdb
+D:\practic exercise\assignment6\part1-advanced jagged arrays\part1-advanced jagged arrays\obj\Debug\part1-advanced jagged arrays.csproj.AssemblyReference.cache
+D:\practic exercise\assignment6\part1-advanced jagged arrays\part1-advanced jagged arrays\obj\Debug\part1-advanced jagged arrays.csproj.CoreCompileInputs.cache
+D:\practic exercise\assignment6\part1-advanced jagged arrays\part1-advanced jagged arrays\obj\Debug\part1-advanced jagged arrays.exe
+D:\practic exercise\assignment6\part1-advanced jagged arrays\part1-advanced jagged arrays\obj\Debug\part1-advanced jagged arrays.pdb
